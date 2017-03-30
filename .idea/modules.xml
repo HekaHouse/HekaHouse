@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HekaHouse.iml" filepath="$PROJECT_DIR$/HekaHouse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/asteria/asteria.iml" filepath="$PROJECT_DIR$/asteria/asteria.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leto/leto.iml" filepath="$PROJECT_DIR$/leto/leto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/themis/libsodium-jni/libsodium-jni.iml" filepath="$PROJECT_DIR$/themis/libsodium-jni/libsodium-jni.iml" />
+      <module fileurl="file://$PROJECT_DIR$/themis/themis.iml" filepath="$PROJECT_DIR$/themis/themis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/themis/themislib/themislib.iml" filepath="$PROJECT_DIR$/themis/themislib/themislib.iml" />
+    </modules>
+  </component>
+</project>

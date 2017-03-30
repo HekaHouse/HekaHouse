@@ -1,0 +1,12 @@
+img {
+    max-width:100% !important;
+    height:auto !important;
+    filter: blur(20px);
+    transition-property: -webkit-filter;
+    transition-duration: .4s
+}
+
+img:hover, img:focus {
+    filter:blur(0px);
+}
+

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">agon.i</string>
+    <string name="concur_intro">To concur with this article, briefly explain why you trust the source and the material or select a reason someone else has left below. Reasoning can be formatted using markdown.</string>
+    <string name="contest_intro" >To contest this article, briefly explain why you do not trust the source and the material or select a reason someone else has left below. Reasoning can be formatted using markdown.</string>
+</resources>

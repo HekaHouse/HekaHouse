@@ -1,0 +1,104 @@
+{
+  "project_info": {
+    "project_number": "80110835151",
+    "firebase_url": "https://foodiebot-7d50c.firebaseio.com",
+    "project_id": "foodiebot-7d50c",
+    "storage_bucket": "foodiebot-7d50c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80110835151:android:a6de8513b2402617",
+        "android_client_info": {
+          "package_name": "house.heka.kitchen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80110835151-iv390u299eu08ec603kvmuii3ranbnod.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTvKshB-d8PH6YSIrlXgXonRJW1pdfcuo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80110835151:android:d4b9b49b3be4b634",
+        "android_client_info": {
+          "package_name": "house.heka.framework"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80110835151-iv390u299eu08ec603kvmuii3ranbnod.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTvKshB-d8PH6YSIrlXgXonRJW1pdfcuo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80110835151:android:611753e3a5d107e2",
+        "android_client_info": {
+          "package_name": "house.heka.leto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80110835151-iv390u299eu08ec603kvmuii3ranbnod.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTvKshB-d8PH6YSIrlXgXonRJW1pdfcuo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

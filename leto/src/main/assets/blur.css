@@ -1,0 +1,21 @@
+img {
+    max-width:100% !important;
+    height:auto !important;
+    filter: blur(20px);
+    transition-property: -webkit-filter;
+    transition-duration: .4s
+}
+
+img:hover, img:focus {
+    filter:blur(0px);
+}
+
+body {
+	color:transparent;
+    text-shadow: 0 0 20px rgba(0,0,0,1);
+}
+
+body:hover {
+   color: black;
+   text-shadow: 0 0 0px rgba(0,0,0,0);
+}
